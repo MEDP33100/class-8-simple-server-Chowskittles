@@ -1,2 +1,22 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/zPEbIGCW)
-# Template for MEDP 33100 projects and homeworks
+Spring-Themed Node.js Server
+
+This project is a simple demonstration of hosting a local server using Node.js. The server serves an HTML page with a spring theme focused on cherry blossom trees.
+
+Features
+
+Uses Node.js to create a basic HTTP server
+
+Serves an HTML page with inline CSS
+
+Themed around cherry blossoms and their cultural significance
+
+
+Where to See Cherry Blossoms in NYC
+
+Cherry blossoms can be enjoyed at:
+
+Brooklyn Botanic Garden
+
+Central Park
+
+Flushing Meadows-Corona Park
